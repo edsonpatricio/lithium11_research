@@ -3,7 +3,8 @@
 
 
 #Índice
-[TOC]
+* auto-gen TOC:
+{:toc}
 
 
 ## Introdução
